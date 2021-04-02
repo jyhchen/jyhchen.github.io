@@ -4,7 +4,7 @@ html, body {
     display: flex;
     align-items: top;
     justify-content: left;
-    height: 200%;
+    height: 150%;
     width: 100%;
     background: linear-gradient(174deg, rgba(255,236,203,1) 0%, rgba(238,188,59,1) 55%, rgba(255,132,0,1) 100%);
     padding: 0px;
@@ -114,12 +114,12 @@ li {
 
   .projLink{
     font-family: 'Roboto', sans-serif;
-    
   }
 
   .projLink:link {
     text-decoration: underline;
     color: black;
+    margin-right: 1em;
   }
   
   .projLink:visited {
