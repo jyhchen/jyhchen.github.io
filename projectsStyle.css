@@ -49,6 +49,7 @@ html, body {
 
 li {
   list-style-type: none;
+  margin-bottom: 1em;
 }
 
 .underline:link {
@@ -99,7 +100,7 @@ li {
   .projItem {
     display: flex;
     align-items: top;
-    justify-content: center;
+    justify-content: left;
   }
 
   .projImg {

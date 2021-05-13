@@ -76,8 +76,8 @@ html, body {
   }
 
 .section{
-    margin: 100px;
-    font-size: 120%;
+  margin: 80px;
+  font-size: 120%;
 }
 
 ul {
@@ -106,6 +106,12 @@ li {
 
 .abtLnk:hover {
   background-position: 0 100%;
+}
+
+
+.profPic {
+  transform: translate(0, 20%);
+  height: 60%;
 }
 
 
