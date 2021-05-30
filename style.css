@@ -18,6 +18,7 @@ html, body {
 
 .name {
   font-family: 'Exo 2', sans-serif;
+  font-size: 300%;
   text-align: center;
   margin-bottom: 1px;
 }
@@ -43,10 +44,6 @@ html, body {
   align-items: center;
   font-size: 120%;
   color: black;
-}
-
-.name {
-  font-size: 300%;
 }
 
 .profile-picture {
@@ -92,8 +89,8 @@ html, body {
   color: #ffffff;
 }
 
-.fa-envelope-square {
-  background: #EA4335;
+.fa-twitter {
+  background: #1DA1F2;
   color: #ffffff;
 }
 
@@ -104,6 +101,7 @@ html, body {
   color: white;
   list-style-type: none;
   font-weight: bold;
+  align-items: center;
   
 }
 
