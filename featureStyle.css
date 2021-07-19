@@ -67,6 +67,12 @@ h1 {
     font-size: 300%;
 }
 
+.subheading {
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
 ul {
     list-style-type: none;
     padding-left: 0;
